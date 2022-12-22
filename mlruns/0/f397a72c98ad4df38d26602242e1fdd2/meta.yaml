@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/paulhake/Documents/mlops/flow_repo/genre_classification/mlruns/0/f397a72c98ad4df38d26602242e1fdd2/artifacts
+end_time: 1671675259141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f397a72c98ad4df38d26602242e1fdd2
+run_name: respected-mule-358
+run_uuid: f397a72c98ad4df38d26602242e1fdd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671675223917
+status: 3
+tags: []
+user_id: paulhake

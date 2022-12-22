@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/paulhake/Documents/mlops/flow_repo/genre_classification/mlruns/0/ebc17e0219754e0eb1749621ea9164d2/artifacts
+end_time: 1671675169766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebc17e0219754e0eb1749621ea9164d2
+run_name: intrigued-ape-921
+run_uuid: ebc17e0219754e0eb1749621ea9164d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671675151086
+status: 3
+tags: []
+user_id: paulhake

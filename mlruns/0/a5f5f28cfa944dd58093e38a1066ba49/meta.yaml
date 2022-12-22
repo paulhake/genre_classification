@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/paulhake/Documents/mlops/flow_repo/genre_classification/mlruns/0/a5f5f28cfa944dd58093e38a1066ba49/artifacts
+end_time: 1671653615978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5f5f28cfa944dd58093e38a1066ba49
+run_name: defiant-donkey-237
+run_uuid: a5f5f28cfa944dd58093e38a1066ba49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671653439310
+status: 4
+tags: []
+user_id: paulhake

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/paulhake/Documents/mlops/flow_repo/genre_classification/mlruns/0/565d2d9cba9d44f8888a80d0f9d9adc5/artifacts
+end_time: 1671674207307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 565d2d9cba9d44f8888a80d0f9d9adc5
+run_name: stylish-koi-658
+run_uuid: 565d2d9cba9d44f8888a80d0f9d9adc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671674190173
+status: 3
+tags: []
+user_id: paulhake

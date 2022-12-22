@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/paulhake/Documents/mlops/flow_repo/genre_classification/mlruns/0/f327c9617fb54ed48847ba9c2a2b4a8f/artifacts
+end_time: 1671674625147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f327c9617fb54ed48847ba9c2a2b4a8f
+run_name: wise-stork-873
+run_uuid: f327c9617fb54ed48847ba9c2a2b4a8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671674423412
+status: 3
+tags: []
+user_id: paulhake

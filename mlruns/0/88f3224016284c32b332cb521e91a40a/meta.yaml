@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/paulhake/Documents/mlops/flow_repo/genre_classification/mlruns/0/88f3224016284c32b332cb521e91a40a/artifacts
+end_time: 1671674423367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88f3224016284c32b332cb521e91a40a
+run_name: caring-boar-649
+run_uuid: 88f3224016284c32b332cb521e91a40a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671674207342
+status: 3
+tags: []
+user_id: paulhake

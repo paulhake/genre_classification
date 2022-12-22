@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/paulhake/Documents/mlops/flow_repo/genre_classification/mlruns/0/4ed6bae63f9f492b9b38764a3aded98d/artifacts
+end_time: 1671675433872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ed6bae63f9f492b9b38764a3aded98d
+run_name: upbeat-pig-216
+run_uuid: 4ed6bae63f9f492b9b38764a3aded98d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671675144813
+status: 3
+tags: []
+user_id: paulhake

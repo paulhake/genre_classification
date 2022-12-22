@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/paulhake/Documents/mlops/flow_repo/genre_classification/mlruns/0/f62e98ac655a4bb7b5ad9babcdb22ab4/artifacts
+end_time: 1671675188562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f62e98ac655a4bb7b5ad9babcdb22ab4
+run_name: redolent-rook-105
+run_uuid: f62e98ac655a4bb7b5ad9babcdb22ab4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671675169808
+status: 3
+tags: []
+user_id: paulhake

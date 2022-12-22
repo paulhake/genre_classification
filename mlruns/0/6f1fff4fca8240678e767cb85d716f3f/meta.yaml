@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/paulhake/Documents/mlops/flow_repo/genre_classification/mlruns/0/6f1fff4fca8240678e767cb85d716f3f/artifacts
+end_time: 1671654256054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f1fff4fca8240678e767cb85d716f3f
+run_name: enchanting-crab-984
+run_uuid: 6f1fff4fca8240678e767cb85d716f3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671654238780
+status: 3
+tags: []
+user_id: paulhake

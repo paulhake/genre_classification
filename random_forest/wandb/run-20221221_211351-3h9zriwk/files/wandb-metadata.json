@@ -1,0 +1,55 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.15",
+    "heartbeatAt": "2022-12-22T02:13:52.084959",
+    "startedAt": "2022-12-22T02:13:51.473669",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "data_train.csv:latest",
+        "--model_config",
+        "/Users/paulhake/Documents/mlops/flow_repo/genre_classification/outputs/2022-12-21/21-12-30/random_forest_config.yml",
+        "--export_artifact",
+        "model_export",
+        "--random_seed",
+        "42",
+        "--val_size",
+        "0.3",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/paulhake/genre_classification.git",
+        "commit": "6163c31e46556ceeb1bc06091f6452eb0191fa17"
+    },
+    "email": "pauljhake@hotmail.com",
+    "root": "/Users/paulhake/Documents/mlops/flow_repo/genre_classification",
+    "host": "pauls-MacBook-Pro.local",
+    "username": "paulhake",
+    "executable": "/Users/paulhake/opt/anaconda3/envs/mlflow-ce2a81665c07c6c704799be61b2ac74d7d7f6625/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "total": 465.62699127197266,
+        "used": 8.218463897705078
+    },
+    "memory": {
+        "total": 32.0
+    }
+}

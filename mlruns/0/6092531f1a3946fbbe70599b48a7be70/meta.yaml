@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/paulhake/Documents/mlops/flow_repo/genre_classification/mlruns/0/6092531f1a3946fbbe70599b48a7be70/artifacts
+end_time: 1671654272067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6092531f1a3946fbbe70599b48a7be70
+run_name: beautiful-quail-691
+run_uuid: 6092531f1a3946fbbe70599b48a7be70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671654229813
+status: 4
+tags: []
+user_id: paulhake

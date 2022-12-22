@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/paulhake/Documents/mlops/flow_repo/genre_classification/mlruns/0/21b77db83e1c4e38a3d573388e99df19/artifacts
+end_time: 1671675206195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21b77db83e1c4e38a3d573388e99df19
+run_name: useful-colt-315
+run_uuid: 21b77db83e1c4e38a3d573388e99df19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671675188601
+status: 3
+tags: []
+user_id: paulhake

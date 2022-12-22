@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/paulhake/Documents/mlops/flow_repo/genre_classification/mlruns/0/4da26c1347ea47e29e37486380b3c6e5/artifacts
+end_time: 1671675433702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4da26c1347ea47e29e37486380b3c6e5
+run_name: sedate-lark-38
+run_uuid: 4da26c1347ea47e29e37486380b3c6e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671675259178
+status: 3
+tags: []
+user_id: paulhake

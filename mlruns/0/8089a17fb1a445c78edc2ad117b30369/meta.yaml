@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/paulhake/Documents/mlops/flow_repo/genre_classification/mlruns/0/8089a17fb1a445c78edc2ad117b30369/artifacts
+end_time: 1671655000580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8089a17fb1a445c78edc2ad117b30369
+run_name: flawless-hawk-500
+run_uuid: 8089a17fb1a445c78edc2ad117b30369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671654983129
+status: 3
+tags: []
+user_id: paulhake

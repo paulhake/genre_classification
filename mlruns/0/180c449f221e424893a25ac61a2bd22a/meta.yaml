@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/paulhake/Documents/mlops/flow_repo/genre_classification/mlruns/0/180c449f221e424893a25ac61a2bd22a/artifacts
+end_time: 1671655198928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 180c449f221e424893a25ac61a2bd22a
+run_name: receptive-sow-355
+run_uuid: 180c449f221e424893a25ac61a2bd22a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671655000612
+status: 3
+tags: []
+user_id: paulhake

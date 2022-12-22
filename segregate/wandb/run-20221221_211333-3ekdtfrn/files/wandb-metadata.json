@@ -1,0 +1,55 @@
+{
+    "os": "macOS-13.0.1-x86_64-i386-64bit",
+    "python": "3.9.15",
+    "heartbeatAt": "2022-12-22T02:13:34.103108",
+    "startedAt": "2022-12-22T02:13:33.447563",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "preprocessed_data.csv:latest",
+        "--artifact_root",
+        "data",
+        "--artifact_type",
+        "segregated_data",
+        "--test_size",
+        "0.3",
+        "--random_state",
+        "42",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/Users/paulhake/Documents/mlops/flow_repo/genre_classification/segregate/run.py",
+    "codePath": "segregate/run.py",
+    "git": {
+        "remote": "https://github.com/paulhake/genre_classification.git",
+        "commit": "6163c31e46556ceeb1bc06091f6452eb0191fa17"
+    },
+    "email": "pauljhake@hotmail.com",
+    "root": "/Users/paulhake/Documents/mlops/flow_repo/genre_classification",
+    "host": "pauls-MacBook-Pro.local",
+    "username": "paulhake",
+    "executable": "/Users/paulhake/opt/anaconda3/envs/mlflow-ccf9489b0d80e6a716d3dc9da7c6221f87c4581e/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "total": 465.62699127197266,
+        "used": 8.218463897705078
+    },
+    "memory": {
+        "total": 32.0
+    }
+}
